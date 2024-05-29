@@ -117,7 +117,6 @@ function Inscription() {
                     required
                     fullWidth
                     value={name}
-                    id="nom"
                     label="Nom"
                     name="nom"
                     autoComplete="lname"
